@@ -9,4 +9,4 @@ https://twitter.com/svpino/status/1354048209564426240)
 
 2. Write a function that finds the missing number in an unsorted array containing every one of the other 99 numbers ranging from 1 to 100. [[solution]](find_missing_number.py)
 
-3. Write a function that finds the duplicate number in an unsorted array containing every number from 1 to 100. Only one of the numbers will appear twice.
+3. Write a function that finds the duplicate number in an unsorted array containing every number from 1 to 100. Only one of the numbers will appear twice. [[solution]](duplicate_number.py)
